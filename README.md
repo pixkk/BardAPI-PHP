@@ -15,7 +15,7 @@ Before using this code, you need get "keys" - cookies from Google Bard Page.
 - In Application under the `Storage` you will find `cookies` dropdown.
 - Under cookies click on `https://bard.google.com` which will show you all the cookies being used as `Name` and `Value`
 - Copy the next cookies:
-  __Secure-1PSID` and `__Secure-1PSIDTS`
+  `__Secure-1PSID` and `__Secure-1PSIDTS`
 - Add them to file API_KEYS.txt:
 
   Default API_KEYS.txt file:

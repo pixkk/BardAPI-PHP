@@ -1,0 +1,2 @@
+_BARD_API_KEY_1PSID: your_cookie_value_without_quotes
+_BARD_API_KEY_1PSIDTS: your_cookie_value_without_quotes

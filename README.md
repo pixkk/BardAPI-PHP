@@ -45,4 +45,5 @@ print($result['choices'][0]['content'][0]);
 ```
 ![image](https://github.com/pixkk/BardAPI-PHP/assets/30828435/00333faf-7bc8-44f0-8776-fa6432f24d4d)
 
-
+## Notice
+The user assumes all legal obligations associated with the use of this package. This package simply demonstrates how to use Bard using the PHP programming language. Users are solely responsible for managing the data they use and the proper use of the package. For more information, refer to the official Google Bard document.

@@ -5,6 +5,8 @@ I was inspired to develop after publishing a pull request at https://github.com/
 
 I welcome comments or bug reports you have.
 
+**✔ Auto updating cookie added**
+
 # Before using
 **⚠ WARNING!!! Before you got cookies, please sign in to your Google account from a clean browser session or in incognito mode!
 In the event that the __Secure-1PSIDTS cookie becomes corrupted, you may need to re-login to all accounts that you previously signed in to.**
